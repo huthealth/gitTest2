@@ -3,5 +3,6 @@ public class Test {
         int a= 1;
         String str = "master1";
         String str2 = "master2";
+        String str3 = "billy1";
     }
 }
