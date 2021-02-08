@@ -3,5 +3,7 @@ public class Help {
     String str2 = "help2";
     String str3 = "help3";
     String str4 = "help4";
+    String str5 = "help5";
+
 
 }
